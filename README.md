@@ -11,7 +11,7 @@ Helping Louise see the different campaigns relation to their launch dates and th
 An overview of analysis for both sets of visualization of dataset
 
 ### Analysis of Outcomes Based on Launch Date
-The largest point of analysis to note is the month launched across the succesful campaigns. May, June and July are the peak months within this subset. The failed subset of campaign data is fairly even throughout the year regardless of month launched. 
+The largest point of analysis to note is the month launched across the succesful campaigns. May, June and July are the peak months within this subset. The failed subset of campaign data is fairly even throughout the year regardless of month launched. ![SS_OBOLD](metalneck25/kickstarter-analysis-/SS_OBOLD.png)
 
 ### Analysis of Outcomes Based on Goals
 Without digging further in to more cross-comparison categories for this subset it is hard to pull anything general of assistance for Louise. The failure rate for every value under $50,000 is higher than the success rate. To be able to explain why the success rate is higher with a goal above $50,000 we would have to look at other factors of the individual play campaigns. 
