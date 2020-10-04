@@ -11,14 +11,14 @@ Helping Louise see the different campaigns relation to their launch dates and th
 An overview of analysis for both sets of visualization of dataset
 
 ### Analysis of Outcomes Based on Launch Date
-The largest point of analysis to note is the month launched across the succesful campaigns. May, June and July are the peak months within this subset. The failed subset of campaign data is fairly even throughout the year regardless of month launched. ![SS_OBOLD](metalneck25/kickstarter-analysis-/SS_OBOLD.png)
+The largest point of analysis to note is the month launched across the succesful campaigns. May, June and July are the peak months within this subset. The failed subset of campaign data is fairly even throughout the year regardless of month launched. ![SS_OBOLD.png](metalneck25/kickstarter-analysis-/SS_OBOLD.png)
 
 ### Analysis of Outcomes Based on Goals
-Without digging further in to more cross-comparison categories for this subset it is hard to pull anything general of assistance for Louise. The failure rate for every value under $50,000 is higher than the success rate. To be able to explain why the success rate is higher with a goal above $50,000 we would have to look at other factors of the individual play campaigns. 
+Without digging further in to more cross-comparison categories for this subset it is hard to pull anything general of assistance for Louise. The failure rate for every value under $50,000 is higher than the success rate. To be able to explain why the success rate is higher with a goal above $50,000 we would have to look at other factors of the individual play campaigns. ![SS_OBOG.png](metalneck25/kickstarter-analysis-/SS_OBOG.png)
 
 ### Challenges and Difficulties Encountered
 Within COUNTIFS: I had to play around with the formula a little bit, but eventually figured out I had to use 'Kickstarter!' for both values I was after.
-With my pivot chart for 'Outcomes Based on Goals': I was hung up on appearence and then realized I needed to remove the '(blank)' value from my Row Labels. 
+With my pivot chart for 'Outcomes Based on Goals': I was hung up on appearence and then realized I needed to remove the '(blank)' value from my Row Labels. ![SS_OBOG_ERR.png](metalneck25/kickstarter-analysis-/SS_OBOG.png)
 
 ## Results
 Theater Outcomes based on Launch Date: The highest number of successful campaigns were launched in the Summer months; The number of failed campaigns was not hinged on which month the campaigns were launched. 
